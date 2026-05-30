@@ -1,5 +1,11 @@
 # Customer Churn Prediction Using Machine Learning
 
+# Streamlit deployment link
+
+Streamlit App:
+https://final-projectpy-ghobdtfzftkf6oblnt2wvw.streamlit.app/
+
+
 # Project Overview
 
 Customer churn is a significant challenge for telecommunications companies because losing customers directly affects revenue and profitability. Predicting which customers are likely to leave enables companies to implement targeted retention strategies and improve customer satisfaction.
